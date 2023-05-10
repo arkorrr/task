@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    /*
+    
     int S, V;   //#1
     cout << "Enter kilometers: "; cin >> S;
     cout << "Enter speed which human moved: "; cin >> V;
@@ -67,6 +67,6 @@ int main()
     cout << "Time that has passed since the beginning of the working day: "; cin >> work;
     workingday = workingday * onehour; // trade in seconds;
     cout << "Left to work: " << (workingday - work)/onehour << " Hours/Hour";
-    */
+   /**/
 }
 
